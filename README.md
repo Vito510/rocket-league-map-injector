@@ -3,6 +3,8 @@ Makes it easier to play custom maps on the epic games version of the game.
 
 python 3+ required
 
+This program replaces the Utopia Retro map with any custom map you want.
+
 Do anything you want with the code just dont criticize for my shit code. And also dont just blatantly steal my code (even though it's shit).
 
 In the folder "MapFolders" you put extracted map folders.
