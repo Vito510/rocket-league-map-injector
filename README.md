@@ -8,8 +8,7 @@ This program replaces the Utopia Retro map with any custom map you want.
 Do anything you want with the code just dont criticize for my shit code. And also dont just blatantly steal my code (even though it's shit).
 
 In the folder "MapFolders" you put extracted map folders.
-
-In a map folder there can only be the map file ".udk,upk.....etc"
+The folder must contain a upk/udk file.
 The folder can be named anything you want.
 
 Q: where can I find maps, epic games does not have a workshop?
