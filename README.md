@@ -7,7 +7,7 @@ This program replaces the Utopia Retro map with any custom map you want.
 
 Do anything you want with the code just dont criticize for my shit code. And also dont just blatantly steal my code (even though it's shit).
 
-In the folder "MapFolders" you put extracted map folders.
+In the folder "MapFolders" you place extracted map folders.
 The folder must contain a upk/udk file.
 The folder can be named anything you want.
 
