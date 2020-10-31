@@ -16,6 +16,6 @@ A: https://steamworkshopdownloader.io/ on this website paste the steam workshop 
 
 \/\/Important!\/\/
 
-In the dst file paste the "rocketleague" folder
+In the dst.txt file paste the "rocketleague" folder
 path.
 
