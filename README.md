@@ -18,7 +18,4 @@ A: https://steamworkshopdownloader.io/ on this website paste the steam workshop 
 
 In the dst file paste the "rocketleague" folder
 path.
-correct example > "D:/Games/rocketleague" without the "
 
-incorrect example > "D:\Games\rocketleague"
-incorrect example > "D:/Games/rocketleague/CookedPCConsle"
