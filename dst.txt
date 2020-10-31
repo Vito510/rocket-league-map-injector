@@ -1,6 +1,2 @@
 In this file you should paste the "rocketleague" folder
 path and only the path, erase everything else.
-correct example > "D:/Games/rocketleague" without the "
-
-incorrect example > "D:\Games\rocketleague"
-incorrect example > "D:/Games/rocketleague/CookedPCConsle"
