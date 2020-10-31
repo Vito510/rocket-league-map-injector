@@ -4,6 +4,8 @@ import shutil
 path = '.'
 dstFile = open("dst.txt", "r")
 gameDir = dstFile.read()+'/TAGame/CookedPCConsole'
+gameDir = gameDir.replace("\\","/")
+gameDir = gameDir.replace('"',"")
 print("Created by https://github.com/Vito510\n")
 i = int(1)
 fc = int(0)
