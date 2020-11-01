@@ -5,7 +5,7 @@ python 3+ required
 
 This program replaces the Utopia Retro map with any custom map you want.
 
-Do anything you want with the code just dont criticize for my shit code. And also dont just blatantly steal my code (even though it's shit).
+Do anything you want with the code just dont criticize for my overcomplicated code. And also dont just blatantly steal my code thats not really nice.
 
 In the folder "MapFolders" you place extracted map folders.
 The folder must contain a upk/udk file.
