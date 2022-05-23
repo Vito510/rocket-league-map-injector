@@ -1,9 +1,9 @@
 # rocket-league-map-injector
 
-**This is no longer useful as bakkesmod for Epic games has come out**
-**So use bakkesmod https://www.bakkesmod.com/**
+# **This is no longer useful as bakkesmod for Epic games was released**
+# **So use bakkesmod https://www.bakkesmod.com/**
 
-\n\n\n
+
 Makes it easier to play custom maps on the epic games version of the game. 
 
 python 3+ required
